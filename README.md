@@ -36,7 +36,6 @@ Clone o projeto e siga os passos abaixo:
 
 ```bash
 # Instalando as depêndencias da parte web:
-$ cd web
 $ npm install
 #Iniciando o projeto web:
 $ npm start
