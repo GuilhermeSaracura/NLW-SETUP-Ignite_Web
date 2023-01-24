@@ -32,13 +32,17 @@ O Habits é um projeto desenvolvido durante a semana do NLW-SETUP 2023 da Rocket
 
 Clone o projeto e siga os passos abaixo:
 
+## 🔍Obs
+
+- Para o carregamento dos dados na página web é necessário baixar e rodar o [Servidor](https://github.com/GuilhermeSaracura/NLW-SETUP-Ignite_Server).
+
 ### Web
 
 ```bash
 # Instalando as depêndencias da parte web:
 $ npm install
 #Iniciando o projeto web:
-$ npm start
+$ npm run dev
 ```
 
 Made with 💜 by [GuilhermeSaracura](https://github.com/GuilhermeSaracura)👋
